@@ -2,7 +2,7 @@
 
 ## Requerimientos
 
-Se encuentran enlistados los requerimientos funcionales y no funcionales, así como los requisitos técnicos ---> [Requerimientos](./Requerimientos-Abogabot.xlsx "Requerimientos")
+Se encuentran enlistados los requerimientos funcionales y no funcionales, así como los requisitos técnicos ---> [Requerimientos](Requerimientos-Abogabot.xlsx "Requerimientos")
 
 ## Diseño de arquitectura
 Para desarrollar los siguientes diagramas se utilizó la herramienta [StarUML](https://staruml.io/)
