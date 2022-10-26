@@ -17,7 +17,7 @@ Para desarrollar los siguientes diagramas se utilizó la herramienta [StarUML](h
 
 ## Buyer persona
 
-![Buyer persona](./images/BuyerPersona_Francisco.pdf)
+---> [Buyer Persona](./BuyerPersona_Francisco.pdf "BuyerPersona")
 
 ## Público objetivo
 
