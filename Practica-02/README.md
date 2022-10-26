@@ -9,5 +9,8 @@ Para esta práctica enfocada en el desarrollo de los conceptos de HTML se tuvo c
 Usando lo aprendido en HTML y conceptos básicos de CSS, se logró maquetar el siguiente diseño de página web. He aquí las capturas.
 
 ![Captura del home](./capturas/captura-home.png)
-
+---
 ![Captura de la página de pedidos](./capturas/captura-pedido.png)
+---
+   - Puede consultar el código del index aquí ---> [index](./cellophane-pasteleria/index.html "index.html")
+   - Y el código de la página de pedidos aquí ---> [pedidos](./cellophane-pasteleria/pages/pedido.html "pedido.html")
