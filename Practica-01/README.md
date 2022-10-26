@@ -17,7 +17,7 @@ Para desarrollar los siguientes diagramas se utilizó la herramienta [StarUML](h
 
 ## Buyer persona
 
-Aún en proceso
+![Buyer persona](./images/BuyerPersona_Francisco.pdf)
 
 ## Público objetivo
 
